@@ -3,3 +3,4 @@ Internet archive is an American digital library with the stated mission of acces
 Identifying research papers from the internet and classifying them according to which ones are actual research papers and which ones are not is the goal of the Capstone research project. 
 
 https://d1b10bmlvqabco.cloudfront.net/paste/i0shnvixOcl/9a3033d792a9f8927e2a86dc080dfe31a7566521fca83cdfd7062cd16f6b2379/Bayes_Presentation.mp4
+![](https://github.com/gladieschanggoodluck/Capston-Project/blob/main/image/Internet%20Archive_pdf.png)
